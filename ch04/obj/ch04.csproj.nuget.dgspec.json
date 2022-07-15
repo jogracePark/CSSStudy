@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\503\\Desktop\\CSSStudy\\ch04\\ch04.csproj": {}
+    "C:\\Users\\503\\Desktop\\CSSStudy Home\\CSSStudy\\ch04\\ch04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\503\\Desktop\\CSSStudy\\ch04\\ch04.csproj": {
+    "C:\\Users\\503\\Desktop\\CSSStudy Home\\CSSStudy\\ch04\\ch04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\503\\Desktop\\CSSStudy\\ch04\\ch04.csproj",
+        "projectUniqueName": "C:\\Users\\503\\Desktop\\CSSStudy Home\\CSSStudy\\ch04\\ch04.csproj",
         "projectName": "ch04",
-        "projectPath": "C:\\Users\\503\\Desktop\\CSSStudy\\ch04\\ch04.csproj",
+        "projectPath": "C:\\Users\\503\\Desktop\\CSSStudy Home\\CSSStudy\\ch04\\ch04.csproj",
         "packagesPath": "C:\\Users\\503\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\503\\Desktop\\CSSStudy\\ch04\\obj\\",
+        "outputPath": "C:\\Users\\503\\Desktop\\CSSStudy Home\\CSSStudy\\ch04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\503\\AppData\\Roaming\\NuGet\\NuGet.Config",
