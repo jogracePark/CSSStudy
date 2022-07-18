@@ -1,0 +1,15 @@
+C:\Users\503\Desktop\CSSStudy\ch05\bin\Debug\net6.0\ch05.exe
+C:\Users\503\Desktop\CSSStudy\ch05\bin\Debug\net6.0\ch05.deps.json
+C:\Users\503\Desktop\CSSStudy\ch05\bin\Debug\net6.0\ch05.runtimeconfig.json
+C:\Users\503\Desktop\CSSStudy\ch05\bin\Debug\net6.0\ch05.dll
+C:\Users\503\Desktop\CSSStudy\ch05\bin\Debug\net6.0\ch05.pdb
+C:\Users\503\Desktop\CSSStudy\ch05\obj\Debug\net6.0\ch05.csproj.AssemblyReference.cache
+C:\Users\503\Desktop\CSSStudy\ch05\obj\Debug\net6.0\ch05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\503\Desktop\CSSStudy\ch05\obj\Debug\net6.0\ch05.AssemblyInfoInputs.cache
+C:\Users\503\Desktop\CSSStudy\ch05\obj\Debug\net6.0\ch05.AssemblyInfo.cs
+C:\Users\503\Desktop\CSSStudy\ch05\obj\Debug\net6.0\ch05.csproj.CoreCompileInputs.cache
+C:\Users\503\Desktop\CSSStudy\ch05\obj\Debug\net6.0\ch05.dll
+C:\Users\503\Desktop\CSSStudy\ch05\obj\Debug\net6.0\refint\ch05.dll
+C:\Users\503\Desktop\CSSStudy\ch05\obj\Debug\net6.0\ch05.pdb
+C:\Users\503\Desktop\CSSStudy\ch05\obj\Debug\net6.0\ch05.genruntimeconfig.cache
+C:\Users\503\Desktop\CSSStudy\ch05\obj\Debug\net6.0\ref\ch05.dll
