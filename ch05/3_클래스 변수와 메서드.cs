@@ -48,7 +48,7 @@ namespace ch05
 
     internal class _3_클래스_변수와_메서드
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             Increment Inc1 = new Increment();
             Increment Inc2 = new Increment();
@@ -70,8 +70,8 @@ namespace ch05
             c3.Show();
 
             // 싱글톤 객체
-            Calc cal = Calc.Instance;
-            Calc cal2 = Calc.Instance;
+            Calc cal = Calc.GetInstance();
+            Calc cal2 = Calc.GetInstance();
 
             cal.Plus(1, 2);
 

@@ -11,7 +11,10 @@ namespace ch05.Sub3
         // 싱글톤 객체
         private static Calc instance = new Calc();
 
-        public static Calc Instance { get => instance;}
+        public static Calc GetInstance()
+        {
+            return instance;
+        }
 
         private Calc() { } // 외부에서 해당 클래스를 new로 생성못하게 함
 
